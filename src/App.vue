@@ -4,6 +4,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   Whoop
+  On GitHubPages?
 </template>
 
 <style scoped>
